@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">File Picker</string>
+    <string name="select_file">SELECT FILE</string>
+    <string name="internal_storage">Internal Storage</string>
+    <string name="sd_card">SD Card</string>
+    <string name="cancel">CANCEL</string>
+    <string name="todo">TODO</string>
+    <string name="dots">...</string>
+</resources>
